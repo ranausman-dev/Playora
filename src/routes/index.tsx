@@ -103,7 +103,7 @@ function Index() {
         <WhatsIncluded />
         <PromoBanner
           type="peach"
-          title="LESS MESS. MORE CREATIVE FUN. 🧺"
+          title="LESS MESS. MORE CREATIVE FUN."
           detail="Includes a Mess-Free Sand Tray & Cleaning Brush."
         />
         <HowItWorks />
@@ -113,14 +113,14 @@ function Index() {
         <GlitterSection />
         <PromoBanner
           type="sage"
-          title="TURN SAND INTO ART. 🎨"
+          title="TURN SAND INTO ART."
           detail="A Hands-On, Screen-Free Creative Activity for Kids 4+."
         />
         <ScreenFreeSection />
         <ParentChildSection />
         <PromoBanner
           type="dark"
-          title="LITTLE HANDS. BIG IMAGINATION. 💖"
+          title="LITTLE HANDS. BIG IMAGINATION."
           detail="Create Something They’ll Be Proud to Display."
         />
         <FAQ />
